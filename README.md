@@ -9,3 +9,6 @@ Python 3.x
 ```
 $ python main.py target-application
 ```
+
+![Demo](demo.gif)
+
