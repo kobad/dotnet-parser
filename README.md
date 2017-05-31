@@ -7,5 +7,5 @@ Python 3.x
 ## Usage 
 
 ```
-$ python main.py target-application.
+$ python main.py target-application
 ```
